@@ -1,6 +1,6 @@
 {
   "name": "YouRTube",
-  "subtitle": "Easily download the latest YouRTube through Altstore”,
+  "subtitle": "Easily download the latest YouRTube through Altstore",
   "description": "The official source to install YouRTube",
   "iconURL": "https://example.com/source_icon.png",
   "headerURL": "https://example.com/source_header.png",
@@ -18,7 +18,8 @@
         "bundleIdentifier": "kalphal.us.yourtube",
         "marketplaceID": "00000001",
         "developerName": "Kalphalus",
-        "subtitle": "The Ultimate YouTube Frontend”,
+        "subtitle": "Easily download the latest YouRTube through Altstore",
+
         "localizedDescription": "Temp",
         "iconURL": "https://example.com/myapp_icon.png",
         "tintColor": "#EC3321",

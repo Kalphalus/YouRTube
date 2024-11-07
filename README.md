@@ -18,7 +18,7 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
   <a href="https://github.com/Kalphalus/YouRTube/releases/latest/download/YouRTube.ipa" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/919ec881-771d-47ec-80b2-0e916eb2cee1" height="50" alt="IPA (temporarily the github)" />
   </a>
-  <a href="altstore://source?url=https://github.com/Kalphalus/YouRTube/raw/refs/heads/main/YRT.repo.json" target="_blank" style="text-decoration: none;">
+  <a href="https://tinyurl.com/YouRTubeAltstore" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/f398c268-f40d-405e-9d7d-be9c94483439" height="50" alt="Altstore (temporarily the github)" />
   </a>
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">

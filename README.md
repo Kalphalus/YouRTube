@@ -3,7 +3,17 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
 
 
 ## Downloads
+### PC/Mac
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/4794756d-18c4-42fe-b800-1540e6fffdcf" height="50" alt="Chrome (temporarily the github)" />
+  </a>
+  <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/c348bf72-127b-4b2d-8c17-a626fb6a58fd" height="50" alt="Firefox (temporarily the github)" />
+  </a>
+</div>
 
+### iOS
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/Kalphalus/YouRTube/releases/latest/download/YouRTube.ipa" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/919ec881-771d-47ec-80b2-0e916eb2cee1" height="50" alt="IPA (temporarily the github)" />
@@ -13,6 +23,17 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
   </a>
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/ae120809-664a-4055-a9d4-a19677c488b3" height="50" alt="Appstore (temporarily the github)" />
+  </a>
+</div>
+<a href="https://www.github.com/Kalphalus/YouRTube" target="_blank">Or Build It Yourself</a>
+
+### Android
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/4794756d-18c4-42fe-b800-1540e6fffdcf" height="50" alt="APK (temporarily the github)" />
+  </a>
+  <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/c348bf72-127b-4b2d-8c17-a626fb6a58fd" height="50" alt="Play Store (temporarily the github)" />
   </a>
 </div>
 <a href="https://www.github.com/Kalphalus/YouRTube" target="_blank">Or Build It Yourself</a>

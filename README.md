@@ -24,9 +24,10 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/ae120809-664a-4055-a9d4-a19677c488b3" height="50" alt="Appstore (temporarily the github)" />
   </a>
+    <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/466e2e3d-1d3e-4b60-bc80-23938e302d10" height="50" alt="Or Build It Yourself (temporarily the github)" />
+  </a>
 </div>
-<a href="https://www.github.com/Kalphalus/YouRTube" target="_blank">Or Build It Yourself</a>
-
 ### Android
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
@@ -35,5 +36,7 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/2988f138-0a19-44f7-b0c9-fc235a1c6266" height="50" alt="Play Store (temporarily the github)" />
   </a>
+    <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/466e2e3d-1d3e-4b60-bc80-23938e302d10" height="50" alt="Or Build It Yourself (temporarily the github)" />
+  </a>
 </div>
-<a href="https://www.github.com/Kalphalus/YouRTube" target="_blank">Or Build It Yourself</a>

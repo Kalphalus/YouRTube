@@ -28,6 +28,7 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
     <img src="https://github.com/user-attachments/assets/466e2e3d-1d3e-4b60-bc80-23938e302d10" height="50" alt="Or Build It Yourself (temporarily the github)" />
   </a>
 </div>
+
 ### Android
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">

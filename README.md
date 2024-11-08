@@ -43,7 +43,11 @@ YouRTube is a YouTube Frontend that runs as a Browser Extension to modify the GU
 </div>
 
 # Credits
+## Development
+[@Kalphalus](https://github.com/kalphalus) for starting the project
+## Other
 [@sourcelocation](https://github.com/sourcelocation)
  & [@leminlimez](https://github.com/leminlimez) for inspiring me to code, I wouldnt be learning code and making this without them
+
  
-##### YouRTube is in no way officially affiliated with Google or YouTube.
+#### YouRTube is in no way officially affiliated with Google or YouTube.
